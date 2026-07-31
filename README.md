@@ -24,12 +24,3 @@ I’m a passionate developer & designer from India 🌏, focused on building **m
 I combine **beautiful UI/UX**, **animations**, and **efficient code** to create **interactive, visually stunning websites**.  
 
 <p align="center">✨ Built with passion & creativity ✨</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyitzamjad&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitzamjad&layout=compact&theme=radical" width="400"/>
-</p>
